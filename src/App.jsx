@@ -1,5 +1,5 @@
 import Layout from "./components/Layout.jsx";
-import { Header, HeroSection, About, Features, FAQ, Footer } from "./index.js";
+import { Header, HeroSection, About, Features,  Featuresii, FAQ, Footer } from "./index.js";
 
 function App() {
   return (
@@ -8,6 +8,7 @@ function App() {
         <HeroSection />
         <About />
         <Features />
+        <Featuresii/>
         <FAQ />
       </Layout>
     </main>
