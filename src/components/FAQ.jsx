@@ -58,7 +58,7 @@ const FAQ = () => {
     <section className="w-full p-6 text-white flex flex-col justify-center items-center">
       <h1 className="text-center text-[35px] font-bold font-[Merriweather Sans] text-[#F2EDE4] flex items-center gap-2 justify-center">
         FAQ
-        <span className="w-[25px] h-[25px] rounded-full bg-[#F2E205] inline-block"></span>
+        <span className="w-[15px] h-[15px] rounded-full bg-[#F2E205] inline-block"></span>
       </h1>
 
       <div className="mt-6 space-y-4 md:w-1/2 w-full">
