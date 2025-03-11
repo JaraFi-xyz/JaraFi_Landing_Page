@@ -1,5 +1,4 @@
 import { images } from "../constants";
-
 const Services = () => {
   return (
     <section className="bg-yellow h-auto overflow-hidden">
