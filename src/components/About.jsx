@@ -39,35 +39,35 @@ const About = () => {
           </div>
         </div>
 
-        {/* Profile image 1 - top right */}
+       
         <div className="absolute top-[35px] right-[70px] sm:top-[45px] sm:right-[90px] md:top-[55px] md:right-[110px] lg:top-[70px] lg:right-[140px]">
           <div className="w-[40px] h-[40px] sm:w-[50px] sm:h-[50px] md:w-[60px] md:h-[60px] lg:w-[70px] lg:h-[70px] rounded-full overflow-hidden border-2 border-[#f0ff00]">
-            <img src="/placeholder.svg?height=70&width=70" alt="Profile 1" className="w-full h-full object-cover" />
+            <img src="/Ellipse 15 (1).svg" alt="Profile 1" className="w-full h-full object-cover" />
           </div>
         </div>
 
-        {/* Profile image 2 - bottom right */}
+       
         <div className="absolute bottom-[60px] right-[40px] sm:bottom-[80px] sm:right-[50px] md:bottom-[100px] md:right-[65px] lg:bottom-[120px] lg:right-[80px]">
           <div className="w-[40px] h-[40px] sm:w-[50px] sm:h-[50px] md:w-[60px] md:h-[60px] lg:w-[70px] lg:h-[70px] rounded-full overflow-hidden border-2 border-white">
-            <img src="/placeholder.svg?height=70&width=70" alt="Profile 2" className="w-full h-full object-cover" />
+            <img src="/Ellipse 15 (2).svg" alt="Profile 2" className="w-full h-full object-cover" />
           </div>
         </div>
 
-        {/* Profile image 3 - bottom left */}
+    
         <div className="absolute bottom-[100px] left-[50px] sm:bottom-[130px] sm:left-[65px] md:bottom-[165px] md:left-[80px] lg:bottom-[200px] lg:left-[100px]">
           <div className="w-[40px] h-[40px] sm:w-[50px] sm:h-[50px] md:w-[60px] md:h-[60px] lg:w-[70px] lg:h-[70px] rounded-full overflow-hidden border-2 border-white">
-            <img src="/placeholder.svg?height=70&width=70" alt="Profile 3" className="w-full h-full object-cover" />
+            <img src="/Ellipse 15 (4).svg" alt="Profile 3" className="w-full h-full object-cover" />
           </div>
         </div>
 
-        {/* Profile image 4 - left middle */}
+     
         <div className="absolute top-[90px] left-[40px] sm:top-[120px] sm:left-[50px] md:top-[150px] md:left-[65px] lg:top-[180px] lg:left-[80px]">
           <div className="w-[40px] h-[40px] sm:w-[50px] sm:h-[50px] md:w-[60px] md:h-[60px] lg:w-[70px] lg:h-[70px] rounded-full overflow-hidden border-2 border-white">
-            <img src="/placeholder.svg?height=70&width=70" alt="Profile 4" className="w-full h-full object-cover" />
+            <img src="/Ellipse 15 (3).svg" alt="Profile 4" className="w-full h-full object-cover" />
           </div>
         </div>
 
-        {/* Waitlisters counter - positioned at the bottom of the circular structure */}
+       
         <div className="absolute bottom-[-40px] md:bottom-[-50px] lg:bottom-[-60px] left-1/2 transform -translate-x-1/2 text-center">
           <div className="px-4 md:px-6 lg:px-8 py-1 md:py-2">
             <h2 className="text-2xl md:text-3xl lg:text-4xl font-bold">
